@@ -6,3 +6,5 @@
 
 3- $ grep -A 6 "TOTAL" totales.txt | grep -v "*" >> file2.txt
 3- $ grep -B 2 "SEMANAS" consumos.txt | grep -v "*" >> file2.txt
+
+4- $ grep -v "200" totales.txt
