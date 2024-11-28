@@ -1,0 +1,1 @@
+1- $ grep -A 24 -B 1 "SEMANAS" CONSUMOS.txt > FILE1.TXT
