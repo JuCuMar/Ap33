@@ -1,1 +1,5 @@
 1- $ grep -A 24 -B 1 "SEMANAS" CONSUMOS.txt > FILE1.TXT
+
+2- $ grep -A 6 "SEMANAS" file1.txt | grep -v "*" > s.txt
+2- $ grep -A 6 "EDIFICIO D" file1.txt | grep -v "*" > d.txt
+2- $ grep -A 6 "EDIFICIO A" file1.txt | grep -v "*" > a.txt
